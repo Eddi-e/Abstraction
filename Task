@@ -1,0 +1,9 @@
+Racecar:
+At first i would check the first letter of the word and then check the last letter of the word. R is the first letter of racecar and r is the last letter of racecar.
+Then I would check the 2nd letter, which is a, and the 2nd last letter of racecar, whick is also a. Then I would check the 3rd letter and the 3rd last letter of
+racecar. They are both c. I then hit the middle letter, which means that the word is a palindrome as the letters could be flipped and they would be the same.
+Defied:
+The first and last letter of defied are the same, which means you can progress on to the second and second last letter of defied. These aere both E. After that you
+continue on to the 3rd and 4th letter of Defied, however they are not the same, meaning the word is not a palindrome.
+Any word.
+Check whether the first and last letter are the same, if these letters are not the same the word isn't a palindrome. Assuming the first and last letter are both the same, you should then check if the second and second last letter are the same. Then repeat for the rest of the letters and their opposites. If they are all the same then the word is a palindrome. 
